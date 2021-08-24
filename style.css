@@ -20,3 +20,24 @@
     font-size: 22px;
 }
 
+.img1{
+    width: 60%;
+    display: inline-block;
+}
+
+h4{
+   margin: 0px;
+   background-color: darkorange;
+   line-height: 2;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+}
+
+video{
+    background:url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+}
